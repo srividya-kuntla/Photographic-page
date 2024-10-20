@@ -1,2 +1,3 @@
 # Frontend-one
-This is the basic frontend development of complete HTML and CSS 
+This is the basic frontend development for a photographic page using HTML and CSS 
+Here is the link to see the web page -  https://srividya-kuntla.github.io/Frontend-one/
